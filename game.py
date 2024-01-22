@@ -9,3 +9,7 @@ def main():
 
 if __name__ == '__main__':
     main() 
+    import math
+
+# Что хорошего есть в библиотеке math?
+    print(print.__doc__)

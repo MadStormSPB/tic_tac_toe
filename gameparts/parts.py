@@ -2,7 +2,6 @@
 # gameparts/parts.py
 
 class Board:
-
     # Новый атрибут.
     field_size = 3
 
@@ -25,5 +24,3 @@ class Board:
     #         'Объект игрового поля размером '
     #         f'{self.field_size}x{self.field_size}'
     #     )
-hol= Board()
-print(hol)
